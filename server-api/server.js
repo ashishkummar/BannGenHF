@@ -7,7 +7,7 @@ import axios from "axios";
 // Load environment variables
 dotenv.config();
 
-import { SYSTEM_P } from './systemPrompt.js';c
+import { SYSTEM_P } from './systemPrompt.js';
 
 const app = express();
 app.use(cors());
