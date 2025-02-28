@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI HTML Banner Generator</title>
+    <link rel="stylesheet"  href="./app.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.12/ace.js"></script>
+    <!-- Move js-beautify script to load after custom scripts -->
+    <script src="./lib/beautify.min.js"></script>
+
+</head>
+<body>
+
+    <h2>AI-Powered HTML Banner Generator</h2>
+
+
+<div class="topHeader">
+   <div class="promptBox">
+     <textarea class="proptTextArea" rows="10" cols="50"   type="text" id="promptInput" placeholder="Enter banner description">Generate a pure HTML banner (300x250) with inline CSS and KNOW MORE button</textarea>
+    <br>
+     <button onclick="generateBanner()">Generate</button>
+    
+     <div id="message"></div>
+
+      </div>
+    
+   <div> 
+ 
+    <div id="editor" class="textareaRes" style="height: 300px; width: 700px;"></div>
+
+    </div>
+    
+
+</div>
+ 
+ 
+        <iframe class="iframeCSS"  id="banner-iframe" width="100%" height="600px"></iframe>
+  
+
+    <script>
+
+ // Initialize the Ace editor
+ var editor = ace.edit("editor");
+  editor.setTheme("ace/theme/monokai"); // Set theme (e.g., monokai, github, etc.)
+  editor.session.setMode("ace/mode/html"); // Set mode (e.g., html, javascript, python, etc.)
+  editor.getSession().setUseWrapMode(true); // Enable text wrapping
+
+ // Function to beautify the HTML content
+ 
+  
+ function beautifyHTML(html) {
+  // The 'beautify' function expects parameters like the HTML content and options
+  return js_beautify(html, { indent_size: 2, space_in_empty_paren: true });
+}
+
+
+
+
+        async function generateBanner() {
+            const prompt = document.getElementById("promptInput").value;
+            const messageDiv = document.getElementById("message");
+            const bannerIframe = document.getElementById("banner-iframe");
+
+            messageDiv.innerHTML = "Generating...";
+             editor.setValue('');
+
+            
+            try {
+                const response = await fetch("http://localhost:5000/generate", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ prompt })
+                });
+
+                const data = await response.json();
+                
+                if (data.html_code) {
+
+
+                    const htmlCode =   extractHtmlFromResponse(data.html_code);
+                   // const beautifiedHtml = beautifyHTML(htmlCode); // Beautify the HTML content
+
+                     
+                    //data.html_code; 
+
+                     editor.setValue(htmlCode);
+
+
+
+
+
+
+                    // Load generated HTML into iframe
+                    const iframeDoc = bannerIframe.contentDocument || bannerIframe.contentWindow.document;
+                    iframeDoc.open();
+                    iframeDoc.write(htmlCode);
+                    iframeDoc.close();
+                    
+                    messageDiv.innerHTML = "✅ Banner Generated!";
+                } else {
+                    messageDiv.innerHTML = "❌ " + (data.error || "Failed to generate.");
+                }
+            } catch (error) {
+                console.error(error);
+                messageDiv.innerHTML = "❌ Something went wrong!.";
+            }
+        }
+
+        ////
+
+        function extractHtmlFromResponse(responseText) {
+    // Remove markdown code block markers
+    let cleanedText = responseText.replace(/```html|```/g, "").trim();
+
+    // Ensure we capture everything inside the first opening <html> tag and the last closing </html> tag
+    const htmlMatch = cleanedText.match(/(<html[\s\S]*<\/html>)/i);
+
+    // If not found, try capturing all valid HTML content (failsafe)
+    if (!htmlMatch) {
+        const fallbackMatch = cleanedText.match(/(<[^>]+>[\s\S]*<\/[^>]+>)/);
+        return fallbackMatch ? fallbackMatch[0] : "Invalid response format";
+    }
+
+    return htmlMatch[0];
+}
+
+        ////
+
+
+
+        async function loadRandomPrompt() {
+  try {
+    // Fetch the JSON file containing the prompts
+    const response = await fetch('prompts.json'); // Adjust the path as needed
+    const prompts = await response.json(); // Parse the JSON data
+
+    // Get a random index from the prompts array
+    const randomIndex = Math.floor(Math.random() * prompts.length);
+
+    // Return the random prompt
+    return prompts[randomIndex].prompt;
+  } catch (error) {
+    console.error('Error loading prompts:', error);
+    return 'Sorry, there was an error loading the prompts.';
+  }
+}
+
+        
+loadRandomPrompt().then(randomPrompt => {
+    document.getElementById('promptInput').innerHTML=randomPrompt;
+    console.log('Random Prompt:', randomPrompt);
+});
+
+    </script>
+
+</body>
+</html>

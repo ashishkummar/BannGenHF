@@ -1,0 +1,21 @@
+[
+    {
+      "prompt": "Please create a banner with the following details:\n\n- **Size**: 970x250\n- **Background color**: #ffcc00\n- **Text**: 'Limited Time Offer!'\n- **CTA (Call to Action)**: 'Shop Now'\n- **Image URL**: Use a placeholder image from this link: https://picsum.photos/970/250"
+    },
+    {
+      "prompt": "I'd like a banner with these specifications:\n\n- **Size**: 300x600\n- **Background color**: #000000\n- **Text**: '50% Off Sale!'\n- **CTA**: 'Get Discount'\n- **Image URL**: Please use this placeholder image: https://picsum.photos/300/600"
+    },
+    {
+      "prompt": "Can you make a banner with the following info?\n\n- **Size**: 300x250\n- **Background color**: #3366ff\n- **Text**: 'Exclusive Deals Inside'\n- **CTA**: 'Learn More'\n- **Image URL**: Here's a placeholder: https://picsum.photos/300/250"
+    },
+    {
+      "prompt": "I need a banner with these details:\n\n- **Size**: 160x600\n- **Background color**: #ff0000\n- **Text**: 'Hurry Up! Limited Time'\n- **CTA**: 'Shop Now'\n- **Image URL**: Use this placeholder image: https://picsum.photos/160/600"
+    },
+    {
+      "prompt": "Could you create a banner with the following specifications?\n\n- **Size**: 728x90\n- **Background color**: #00ff00\n- **Text**: 'Special Offer!'\n- **CTA**: 'Get Yours'\n- **Image URL**: Here’s a placeholder: https://picsum.photos/728/90"
+    },
+    {
+      "prompt": "Please design a banner with these details:\n\n- **Size**: 320x50\n- **Background color**: #ffffff\n- **Text**: 'Flash Sale Today!'\n- **CTA**: 'Shop Now'\n- **Image URL**: Use this placeholder image: https://picsum.photos/320/50"
+    }
+  ]
+  

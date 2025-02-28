@@ -1,0 +1,1332 @@
+[
+  {
+    "id": 1,
+    "size": "300x250",
+    "background_color": "#ffcc00",
+    "text": "Limited Time Offer!",
+    "text_color": "#000000",
+    "cta": "Shop Now",
+    "cta_color": "#ff0000",
+    "image_url": "https://picsum.photos/300/250"
+  },
+  {
+    "id": 2,
+    "size": "728x90",
+    "background_color": "#000000",
+    "text": "50% Off Sale!",
+    "text_color": "#ffffff",
+    "cta": "Get Discount",
+    "cta_color": "#00ff00",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 3,
+    "size": "160x600",
+    "background_color": "#3366ff",
+    "text": "Exclusive Deals Inside",
+    "text_color": "#ffffff",
+    "cta": "Learn More",
+    "cta_color": "#ff6600",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 4,
+    "size": "320x50",
+    "background_color": "#28a745",
+    "text": "Summer Sale!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff9900",
+    "image_url": "https://picsum.photos/320/50"
+  },
+  {
+    "id": 5,
+    "size": "468x60",
+    "background_color": "#f44336",
+    "text": "Hurry, Limited Stock!",
+    "text_color": "#ffffff",
+    "cta": "Buy Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 6,
+    "size": "120x240",
+    "background_color": "#00bcd4",
+    "text": "New Arrivals!",
+    "text_color": "#ffffff",
+    "cta": "Shop Collection",
+    "cta_color": "#e91e63",
+    "image_url": "https://picsum.photos/120/240"
+  },
+  {
+    "id": 7,
+    "size": "300x600",
+    "background_color": "#ff5722",
+    "text": "Clearance Sale!",
+    "text_color": "#ffffff",
+    "cta": "View Offers",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/300/600"
+  },
+  {
+    "id": 8,
+    "size": "970x250",
+    "background_color": "#9c27b0",
+    "text": "50% Off Everything!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#8bc34a",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 9,
+    "size": "250x250",
+    "background_color": "#ff9800",
+    "text": "Big Discounts Inside!",
+    "text_color": "#ffffff",
+    "cta": "Grab Deal",
+    "cta_color": "#3f51b5",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 10,
+    "size": "320x100",
+    "background_color": "#673ab7",
+    "text": "Special Offer!",
+    "text_color": "#ffffff",
+    "cta": "Get Deal",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 11,
+    "size": "336x280",
+    "background_color": "#607d8b",
+    "text": "Flash Sale!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 12,
+    "size": "300x300",
+    "background_color": "#009688",
+    "text": "Winter Sale!",
+    "text_color": "#ffffff",
+    "cta": "Save Big",
+    "cta_color": "#d32f2f",
+    "image_url": "https://picsum.photos/300/300"
+  },
+  {
+    "id": 13,
+    "size": "728x250",
+    "background_color": "#cddc39",
+    "text": "Exclusive Deals!",
+    "text_color": "#000000",
+    "cta": "Check Now",
+    "cta_color": "#1976d2",
+    "image_url": "https://picsum.photos/728/250"
+  },
+  {
+    "id": 14,
+    "size": "200x200",
+    "background_color": "#8bc34a",
+    "text": "Limited Time Offer!",
+    "text_color": "#ffffff",
+    "cta": "Get Yours",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/200/200"
+  },
+  {
+    "id": 15,
+    "size": "160x600",
+    "background_color": "#9e9e9e",
+    "text": "Shop the Sale!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#e91e63",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 16,
+    "size": "468x60",
+    "background_color": "#ff5722",
+    "text": "Big Sale On Everything!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#8bc34a",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 17,
+    "size": "300x100",
+    "background_color": "#3f51b5",
+    "text": "Latest Trends!",
+    "text_color": "#ffffff",
+    "cta": "Explore",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/300/100"
+  },
+  {
+    "id": 18,
+    "size": "970x90",
+    "background_color": "#00bcd4",
+    "text": "Summer Collection!",
+    "text_color": "#ffffff",
+    "cta": "Discover More",
+    "cta_color": "#e91e63",
+    "image_url": "https://picsum.photos/970/90"
+  },
+  {
+    "id": 19,
+    "size": "160x600",
+    "background_color": "#e91e63",
+    "text": "Hot Deals!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#00bcd4",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 20,
+    "size": "728x90",
+    "background_color": "#ff9800",
+    "text": "Exclusive Offers!",
+    "text_color": "#ffffff",
+    "cta": "Get Yours Now",
+    "cta_color": "#8bc34a",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 21,
+    "size": "320x50",
+    "background_color": "#607d8b",
+    "text": "Huge Savings!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/320/50"
+  },
+  {
+    "id": 22,
+    "size": "250x250",
+    "background_color": "#673ab7",
+    "text": "Mega Discounts!",
+    "text_color": "#ffffff",
+    "cta": "Grab Yours",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 23,
+    "size": "468x90",
+    "background_color": "#4caf50",
+    "text": "Best Deals Available!",
+    "text_color": "#ffffff",
+    "cta": "Explore Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/468/90"
+  },
+  {
+    "id": 24,
+    "size": "320x100",
+    "background_color": "#9c27b0",
+    "text": "Limited Time Savings!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 25,
+    "size": "320x100",
+    "background_color": "#3f51b5",
+    "text": "Flash Sale - Limited Time Only!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 26,
+    "size": "200x300",
+    "background_color": "#2196f3",
+    "text": "New Arrivals - 50% Off!",
+    "text_color": "#ffffff",
+    "cta": "Browse Collection",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 27,
+    "size": "320x50",
+    "background_color": "#ff5722",
+    "text": "Mega Discounts Today!",
+    "text_color": "#ffffff",
+    "cta": "Get Offers",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/320/50"
+  },
+  {
+    "id": 28,
+    "size": "468x60",
+    "background_color": "#f44336",
+    "text": "Huge Savings on All Items!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 29,
+    "size": "728x90",
+    "background_color": "#8bc34a",
+    "text": "Weekend Flash Sale!",
+    "text_color": "#ffffff",
+    "cta": "Explore Now",
+    "cta_color": "#673ab7",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 30,
+    "size": "160x600",
+    "background_color": "#ff9800",
+    "text": "Get the Best Deals Today!",
+    "text_color": "#ffffff",
+    "cta": "Check Out",
+    "cta_color": "#3f51b5",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 31,
+    "size": "300x250",
+    "background_color": "#00bcd4",
+    "text": "Limited Time Offer - 40% Off!",
+    "text_color": "#ffffff",
+    "cta": "Grab It Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/300/250"
+  },
+  {
+    "id": 32,
+    "size": "970x250",
+    "background_color": "#8bc34a",
+    "text": "Big Sale - Up to 70% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#f44336",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 33,
+    "size": "320x100",
+    "background_color": "#e91e63",
+    "text": "Exclusive Deals Just for You!",
+    "text_color": "#ffffff",
+    "cta": "Learn More",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 34,
+    "size": "250x250",
+    "background_color": "#9c27b0",
+    "text": "Flash Sale - Don't Miss Out!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 35,
+    "size": "336x280",
+    "background_color": "#607d8b",
+    "text": "Seasonal Sale - Best Deals!",
+    "text_color": "#ffffff",
+    "cta": "See Deals",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 36,
+    "size": "468x90",
+    "background_color": "#ffeb3b",
+    "text": "Limited Stock - Act Fast!",
+    "text_color": "#000000",
+    "cta": "Buy Now",
+    "cta_color": "#00bcd4",
+    "image_url": "https://picsum.photos/468/90"
+  },
+  {
+    "id": 37,
+    "size": "320x50",
+    "background_color": "#00bcd4",
+    "text": "Super Discount - Shop Now!",
+    "text_color": "#ffffff",
+    "cta": "Shop Today",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/320/50"
+  },
+  {
+    "id": 38,
+    "size": "300x250",
+    "background_color": "#f44336",
+    "text": "Special Offer - Limited Time Only!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/300/250"
+  },
+  {
+    "id": 39,
+    "size": "728x90",
+    "background_color": "#ff9800",
+    "text": "Up to 60% Off - Shop Now!",
+    "text_color": "#ffffff",
+    "cta": "Get Discount",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 40,
+    "size": "160x600",
+    "background_color": "#4caf50",
+    "text": "Hot Deals Inside!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 41,
+    "size": "468x60",
+    "background_color": "#e91e63",
+    "text": "Big Savings - Shop Now!",
+    "text_color": "#ffffff",
+    "cta": "Get Yours",
+    "cta_color": "#673ab7",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 42,
+    "size": "250x250",
+    "background_color": "#8bc34a",
+    "text": "Best Deals Just for You!",
+    "text_color": "#ffffff",
+    "cta": "Explore Deals",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 43,
+    "size": "336x280",
+    "background_color": "#ff5722",
+    "text": "Up to 50% Off - Shop Now!",
+    "text_color": "#ffffff",
+    "cta": "Shop Today",
+    "cta_color": "#00bcd4",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 44,
+    "size": "320x100",
+    "background_color": "#9c27b0",
+    "text": "Sale - Everything Must Go!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 45,
+    "size": "728x90",
+    "background_color": "#673ab7",
+    "text": "End of Season Sale - 40% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/728/90"
+  },
+    {
+    "id": 46,
+    "size": "320x100",
+    "background_color": "#f44336",
+    "text": "Huge Sale - Limited Time Only!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 47,
+    "size": "200x300",
+    "background_color": "#9c27b0",
+    "text": "New Collection Just Arrived!",
+    "text_color": "#ffffff",
+    "cta": "See More",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 48,
+    "size": "300x250",
+    "background_color": "#8bc34a",
+    "text": "Weekend Special - Up to 70% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/300/250"
+  },
+  {
+    "id": 49,
+    "size": "468x60",
+    "background_color": "#00bcd4",
+    "text": "Limited Time Discount - 40% Off!",
+    "text_color": "#ffffff",
+    "cta": "Get the Deal",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 50,
+    "size": "320x50",
+    "background_color": "#607d8b",
+    "text": "Special Offer - Shop Now!",
+    "text_color": "#ffffff",
+    "cta": "Explore Deals",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/320/50"
+  },
+  {
+    "id": 51,
+    "size": "336x280",
+    "background_color": "#ffeb3b",
+    "text": "Big Savings on Electronics!",
+    "text_color": "#000000",
+    "cta": "Browse Now",
+    "cta_color": "#00bcd4",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 52,
+    "size": "728x90",
+    "background_color": "#ff5722",
+    "text": "Don't Miss Out on 50% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 53,
+    "size": "250x250",
+    "background_color": "#4caf50",
+    "text": "Exclusive Offers - Limited Stock!",
+    "text_color": "#ffffff",
+    "cta": "Grab Yours",
+    "cta_color": "#f44336",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 54,
+    "size": "160x600",
+    "background_color": "#e91e63",
+    "text": "Seasonal Deals - Shop Now!",
+    "text_color": "#ffffff",
+    "cta": "See Offers",
+    "cta_color": "#9c27b0",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 55,
+    "size": "300x250",
+    "background_color": "#2196f3",
+    "text": "Get 30% Off Today!",
+    "text_color": "#ffffff",
+    "cta": "Buy Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/300/250"
+  },
+  {
+    "id": 56,
+    "size": "970x250",
+    "background_color": "#ff9800",
+    "text": "Limited Time Offer - Save Big!",
+    "text_color": "#ffffff",
+    "cta": "Shop Today",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 57,
+    "size": "320x100",
+    "background_color": "#673ab7",
+    "text": "Exclusive Deals - Up to 50% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 58,
+    "size": "468x90",
+    "background_color": "#00bcd4",
+    "text": "Seasonal Discount - 30% Off!",
+    "text_color": "#ffffff",
+    "cta": "Get the Deal",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/468/90"
+  },
+  {
+    "id": 59,
+    "size": "728x90",
+    "background_color": "#ffeb3b",
+    "text": "Hurry! Limited Time Only!",
+    "text_color": "#000000",
+    "cta": "Shop Now",
+    "cta_color": "#00bcd4",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 60,
+    "size": "250x250",
+    "background_color": "#ff5722",
+    "text": "Clearance Sale - Save Up to 70%!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 61,
+    "size": "320x50",
+    "background_color": "#3f51b5",
+    "text": "Massive Discounts on Your Favorite Products!",
+    "text_color": "#ffffff",
+    "cta": "See the Deals",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/320/50"
+  },
+  {
+    "id": 62,
+    "size": "160x600",
+    "background_color": "#ff5722",
+    "text": "Shop the Latest Collection Now!",
+    "text_color": "#ffffff",
+    "cta": "Explore Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 63,
+    "size": "468x60",
+    "background_color": "#f44336",
+    "text": "Up to 40% Off on Selected Items!",
+    "text_color": "#ffffff",
+    "cta": "Shop Today",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 64,
+    "size": "300x250",
+    "background_color": "#9c27b0",
+    "text": "Shop New Arrivals Now!",
+    "text_color": "#ffffff",
+    "cta": "Browse Now",
+    "cta_color": "#00bcd4",
+    "image_url": "https://picsum.photos/300/250"
+  },
+  {
+    "id": 65,
+    "size": "728x90",
+    "background_color": "#3f51b5",
+    "text": "Massive Savings on Fashion!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 66,
+    "size": "970x250",
+    "background_color": "#ffeb3b",
+    "text": "Don't Miss Our Mega Sale!",
+    "text_color": "#000000",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 67,
+    "size": "320x100",
+    "background_color": "#ff9800",
+    "text": "Big Discounts on All Products!",
+    "text_color": "#ffffff",
+    "cta": "See the Deals",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 68,
+    "size": "200x300",
+    "background_color": "#2196f3",
+    "text": "Flash Sale - Everything Must Go!",
+    "text_color": "#ffffff",
+    "cta": "Get Yours",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 69,
+    "size": "336x280",
+    "background_color": "#00bcd4",
+    "text": "Limited Time Discounts - Save Big!",
+    "text_color": "#ffffff",
+    "cta": "Grab the Offer",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 70,
+    "size": "250x250",
+    "background_color": "#f44336",
+    "text": "Flash Sale - Hurry Before It's Gone!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 71,
+    "size": "320x50",
+    "background_color": "#8bc34a",
+    "text": "Get Your Favorites at 30% Off!",
+    "text_color": "#ffffff",
+    "cta": "Buy Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/320/50"
+  },
+  {
+    "id": 72,
+    "size": "336x280",
+    "background_color": "#ff5722",
+    "text": "Seasonal Sale - Best Deals of the Year!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#9c27b0",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 73,
+    "size": "728x90",
+    "background_color": "#00bcd4",
+    "text": "Super Savings on Top Products!",
+    "text_color": "#ffffff",
+    "cta": "Browse Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 74,
+    "size": "468x60",
+    "background_color": "#9c27b0",
+    "text": "Exclusive Offers on Electronics!",
+    "text_color": "#ffffff",
+    "cta": "Explore Now",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 75,
+    "size": "160x600",
+    "background_color": "#8bc34a",
+    "text": "Shop the Best Deals This Season!",
+    "text_color": "#ffffff",
+    "cta": "Buy Now",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 76,
+    "size": "300x250",
+    "background_color": "#607d8b",
+    "text": "Exclusive Sale - 50% Off Today!",
+    "text_color": "#ffffff",
+    "cta": "Get the Discount",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/300/250"
+  },
+  {
+    "id": 77,
+    "size": "320x100",
+    "background_color": "#ff9800",
+    "text": "Shop Today and Save More!",
+    "text_color": "#ffffff",
+    "cta": "Grab the Deal",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 78,
+    "size": "468x90",
+    "background_color": "#ff5722",
+    "text": "Up to 60% Off on All Orders!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/468/90"
+  },
+  {
+    "id": 79,
+    "size": "728x90",
+    "background_color": "#3f51b5",
+    "text": "Get Your Favorite Products at Discount!",
+    "text_color": "#ffffff",
+    "cta": "Buy Now",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 80,
+    "size": "250x250",
+    "background_color": "#607d8b",
+    "text": "Best Deals Just for You!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#f44336",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 81,
+    "size": "970x250",
+    "background_color": "#ffeb3b",
+    "text": "Seasonal Clearance Sale!",
+    "text_color": "#000000",
+    "cta": "Browse Offers",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 82,
+    "size": "160x600",
+    "background_color": "#f44336",
+    "text": "Hurry! Limited Time Discounts!",
+    "text_color": "#ffffff",
+    "cta": "Grab the Deal",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 83,
+    "size": "336x280",
+    "background_color": "#2196f3",
+    "text": "Massive Discounts - Shop Now!",
+    "text_color": "#ffffff",
+    "cta": "Shop Today",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 84,
+    "size": "468x60",
+    "background_color": "#00bcd4",
+    "text": "Get 50% Off on Top Brands!",
+    "text_color": "#ffffff",
+    "cta": "See the Deals",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 85,
+    "size": "320x100",
+    "background_color": "#8bc34a",
+    "text": "Shop Now - 20% Off All Items!",
+    "text_color": "#ffffff",
+    "cta": "Explore Now",
+    "cta_color": "#9c27b0",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 86,
+    "size": "250x250",
+    "background_color": "#9c27b0",
+    "text": "Clearance Sale - Up to 70% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 87,
+    "size": "728x90",
+    "background_color": "#3f51b5",
+    "text": "Big Discounts on Electronics!",
+    "text_color": "#ffffff",
+    "cta": "Buy Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 88,
+    "size": "970x250",
+    "background_color": "#ff9800",
+    "text": "Limited Time Offers - Save More!",
+    "text_color": "#ffffff",
+    "cta": "Get the Deal",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 89,
+    "size": "160x600",
+    "background_color": "#2196f3",
+    "text": "New Year Sale - 50% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 90,
+    "size": "300x250",
+    "background_color": "#ff5722",
+    "text": "Shop for the Best Deals!",
+    "text_color": "#ffffff",
+    "cta": "Explore Offers",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/300/250"
+  },
+  {
+    "id": 91,
+    "size": "468x60",
+    "background_color": "#ff5722",
+    "text": "Flash Sale - Hurry, Get 40% Off!",
+    "text_color": "#ffffff",
+    "cta": "Get the Deal",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 92,
+    "size": "250x250",
+    "background_color": "#ffeb3b",
+    "text": "Shop the Best Deals this Season!",
+    "text_color": "#000000",
+    "cta": "Buy Now",
+    "cta_color": "#00bcd4",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 93,
+    "size": "320x50",
+    "background_color": "#8bc34a",
+    "text": "Massive Deals on Your Favorite Items!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/320/50"
+  },
+  {
+    "id": 94,
+    "size": "200x300",
+    "background_color": "#4caf50",
+    "text": "Limited Time 50% Off Sale!",
+    "text_color": "#ffffff",
+    "cta": "Explore Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 95,
+    "size": "970x250",
+    "background_color": "#ff5722",
+    "text": "Up to 60% Off on Fashion Items!",
+    "text_color": "#ffffff",
+    "cta": "Shop Today",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 96,
+    "size": "468x60",
+    "background_color": "#9c27b0",
+    "text": "Seasonal Sale - Shop Now and Save!",
+    "text_color": "#ffffff",
+    "cta": "Explore Deals",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 97,
+    "size": "250x250",
+    "background_color": "#8bc34a",
+    "text": "Mega Sale - Don't Miss Out!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 98,
+    "size": "320x100",
+    "background_color": "#607d8b",
+    "text": "Massive Discount - Shop Now!",
+    "text_color": "#ffffff",
+    "cta": "Get the Deal",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 99,
+    "size": "468x60",
+    "background_color": "#ff9800",
+    "text": "Up to 30% Off - Limited Time Offer!",
+    "text_color": "#ffffff",
+    "cta": "Get the Deal",
+    "cta_color": "#00bcd4",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 100,
+    "size": "336x280",
+    "background_color": "#4caf50",
+    "text": "Big Discount - Shop Now and Save!",
+    "text_color": "#ffffff",
+    "cta": "Explore Deals",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 101,
+    "size": "728x90",
+    "background_color": "#f44336",
+    "text": "Mega Sale - Up to 80% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 102,
+    "size": "300x250",
+    "background_color": "#3f51b5",
+    "text": "Huge Discounts on Home Goods!",
+    "text_color": "#ffffff",
+    "cta": "Browse Deals",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/300/250"
+  },
+  {
+    "id": 103,
+    "size": "160x600",
+    "background_color": "#8bc34a",
+    "text": "Shop the Best Electronics Deals!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 104,
+    "size": "320x50",
+    "background_color": "#ff9800",
+    "text": "50% Off Your First Purchase!",
+    "text_color": "#ffffff",
+    "cta": "Get the Offer",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/320/50"
+  },
+  {
+    "id": 105,
+    "size": "468x60",
+    "background_color": "#2196f3",
+    "text": "Summer Clearance Sale - Up to 70% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 106,
+    "size": "336x280",
+    "background_color": "#607d8b",
+    "text": "Best Deals on Fashion Apparel!",
+    "text_color": "#ffffff",
+    "cta": "Shop Today",
+    "cta_color": "#f44336",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 107,
+    "size": "970x250",
+    "background_color": "#4caf50",
+    "text": "Big Savings on Home Decor!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 108,
+    "size": "250x250",
+    "background_color": "#ff5722",
+    "text": "Exclusive Offers on Smartphones!",
+    "text_color": "#ffffff",
+    "cta": "Buy Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 109,
+    "size": "160x600",
+    "background_color": "#9c27b0",
+    "text": "Save Big on All Categories!",
+    "text_color": "#ffffff",
+    "cta": "Browse Offers",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 110,
+    "size": "468x60",
+    "background_color": "#2196f3",
+    "text": "Seasonal Sale - Up to 60% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Today",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 111,
+    "size": "320x100",
+    "background_color": "#607d8b",
+    "text": "Get 30% Off on Your Order!",
+    "text_color": "#ffffff",
+    "cta": "Grab the Deal",
+    "cta_color": "#f44336",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 112,
+    "size": "250x250",
+    "background_color": "#ff5722",
+    "text": "Big Discounts on Travel Deals!",
+    "text_color": "#ffffff",
+    "cta": "Explore Now",
+    "cta_color": "#00bcd4",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 113,
+    "size": "970x250",
+    "background_color": "#f44336",
+    "text": "Flash Sale - Hurry, Limited Stock!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 114,
+    "size": "728x90",
+    "background_color": "#8bc34a",
+    "text": "Shop Now - 40% Off All Items!",
+    "text_color": "#ffffff",
+    "cta": "Browse Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 115,
+    "size": "336x280",
+    "background_color": "#ffeb3b",
+    "text": "Special Offer: 25% Off Sitewide!",
+    "text_color": "#000000",
+    "cta": "Shop Now",
+    "cta_color": "#f44336",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 116,
+    "size": "468x60",
+    "background_color": "#4caf50",
+    "text": "Shop the Best Deals Today!",
+    "text_color": "#ffffff",
+    "cta": "Explore Deals",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 117,
+    "size": "320x100",
+    "background_color": "#2196f3",
+    "text": "Up to 50% Off on Tech Products!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 118,
+    "size": "250x250",
+    "background_color": "#3f51b5",
+    "text": "Limited Time Sale - Big Discounts!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ffeb3b",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 119,
+    "size": "970x250",
+    "background_color": "#ff9800",
+    "text": "Best Offers of the Season!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 120,
+    "size": "160x600",
+    "background_color": "#ff5722",
+    "text": "Shop Now - Best Deals Await!",
+    "text_color": "#ffffff",
+    "cta": "Get the Deal",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 121,
+    "size": "728x90",
+    "background_color": "#ffeb3b",
+    "text": "Huge Sale on All Items!",
+    "text_color": "#000000",
+    "cta": "Shop Now",
+    "cta_color": "#f44336",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 122,
+    "size": "468x60",
+    "background_color": "#2196f3",
+    "text": "50% Off All Fashion Items!",
+    "text_color": "#ffffff",
+    "cta": "Explore Deals",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 123,
+    "size": "250x250",
+    "background_color": "#f44336",
+    "text": "Shop Now and Save Big!",
+    "text_color": "#ffffff",
+    "cta": "Browse Offers",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 124,
+    "size": "970x250",
+    "background_color": "#9c27b0",
+    "text": "Limited Time Offer - Save Big!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/970/250"
+  },
+  {
+    "id": 125,
+    "size": "320x100",
+    "background_color": "#ff9800",
+    "text": "Get Up to 60% Off - Limited Time!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#f44336",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 126,
+    "size": "468x60",
+    "background_color": "#607d8b",
+    "text": "Winter Sale - Up to 50% Off!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 127,
+    "size": "160x600",
+    "background_color": "#3f51b5",
+    "text": "Up to 40% Off - Shop Now!",
+    "text_color": "#ffffff",
+    "cta": "Get the Deal",
+    "cta_color": "#ff9800",
+    "image_url": "https://picsum.photos/160/600"
+  },
+  {
+    "id": 128,
+    "size": "250x250",
+    "background_color": "#ffeb3b",
+    "text": "Mega Sale on Fashion!",
+    "text_color": "#000000",
+    "cta": "Shop Now",
+    "cta_color": "#f44336",
+    "image_url": "https://picsum.photos/250/250"
+  },
+  {
+    "id": 129,
+    "size": "336x280",
+    "background_color": "#9c27b0",
+    "text": "Limited Time - Big Savings!",
+    "text_color": "#ffffff",
+    "cta": "Shop Today",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/336/280"
+  },
+  {
+    "id": 130,
+    "size": "320x100",
+    "background_color": "#ff9800",
+    "text": "Hurry! Sale Ending Soon!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#4caf50",
+    "image_url": "https://picsum.photos/320/100"
+  },
+  {
+    "id": 131,
+    "size": "468x60",
+    "background_color": "#607d8b",
+    "text": "Special Offer - Get 30% Off!",
+    "text_color": "#ffffff",
+    "cta": "Explore Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/468/60"
+  },
+  {
+    "id": 132,
+    "size": "728x90",
+    "background_color": "#3f51b5",
+    "text": "Flash Sale - Shop Now and Save!",
+    "text_color": "#ffffff",
+    "cta": "Get the Deal",
+    "cta_color": "#ff5722",
+    "image_url": "https://picsum.photos/728/90"
+  },
+  {
+    "id": 133,
+    "size": "250x250",
+    "background_color": "#ff5722",
+    "text": "Up to 60% Off on Bestsellers!",
+    "text_color": "#ffffff",
+    "cta": "Shop Now",
+    "cta_color": "#2196f3",
+    "image_url": "https://picsum.photos/250/250"
+  }
+]
